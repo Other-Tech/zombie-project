@@ -7,5 +7,6 @@ new branch comments status,comments status,this is comments3, befor pull statuss
 
 
 after set branch in mains
+after set branch in main
 
 ////////new story comment
