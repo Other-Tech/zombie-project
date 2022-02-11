@@ -2,3 +2,4 @@ second file comments
 
 new branch comments status, this is story comments
 new branch comments status,comments status,this is comments3
+new branch comment status, this is storys comments before pull story
